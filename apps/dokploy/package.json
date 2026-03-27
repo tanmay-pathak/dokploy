@@ -155,7 +155,7 @@
 		"use-resize-observer": "9.1.0",
 		"ws": "8.16.0",
 		"xterm-addon-fit": "^0.8.0",
-		"yaml": "2.8.1",
+		"yaml": "2.8.3",
 		"zod": "^3.25.32",
 		"zod-form-data": "^2.0.7",
 		"semver": "7.7.3"
